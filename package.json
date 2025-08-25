@@ -1,0 +1,8 @@
+{
+  "name": "bot",
+  "version": "1.21.8",
+  "main": "index.js",
+  "dependencies": {
+    "mineflayer": "^4.11.0"
+  }
+}
